@@ -1,0 +1,15 @@
+# Build artifacts
+*.exe
+*.obj
+*.o
+*.class
+
+# Output PCAPs
+output*.pcap
+java/output*.pcap
+
+# Build folders
+build/
+bin/
+.vscode/
+.idea/
